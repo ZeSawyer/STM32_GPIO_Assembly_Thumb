@@ -1,5 +1,5 @@
 Objective: 
-- Write basic assembly code to run on a startup file of STM32F44
+- In STM32CubeIDE, write a basic assembly code to run on a startup file of STM32F44
 - No use of main.c file 
 - The application should blink LED on PA5 every second using SysTick interrupt
 - Global variables used: toggle led "toggle_LED" and "seconds_since_start" as counter
