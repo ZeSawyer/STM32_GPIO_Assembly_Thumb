@@ -1,10 +1,12 @@
 @ ==========================================================================
+@ ==========================================================================
 @ Target: STM32F446 (Cortex-M4)
 @
 @ Blinks LED on PA5 (Nucleo-F446RE) every second using SysTick interrupt
 @ Global variables: toggle led "toggle_LED" and "seconds_since_start" as counter
 @ Toggles LED high for even seconds, low for odd seconds.
 @ Function "control_led" is called in interrupt with arguments and returns
+@ ==========================================================================
 @ ==========================================================================
 
 @ Directives to specify architecture and instruction set
