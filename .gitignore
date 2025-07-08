@@ -1,0 +1,8 @@
+Debug
+Startup
+Release
+STM32F446RETX_FLASH.ld
+STM32F446RETX_RAM.ld
+.cproject
+.project
+.settings
